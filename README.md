@@ -1,2 +1,2 @@
-# dmitryk81.github.io
-Some work
+# Kotov Dmitry
+My practice in HTML and CSS
